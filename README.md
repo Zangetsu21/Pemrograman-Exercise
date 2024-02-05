@@ -1,3 +1,3 @@
 # Pemrograman-Exercise
 
-###Ini adalah soal soal latihan Pemrograman
+Ini adalah jawaban dari contoh soal latihan Pemrograman
